@@ -20,11 +20,11 @@
 ### Progress Summary
 | Person | Work Done |
 |------|------|
-| Phani | Implement Isolation forest using CICIDS 2018 Dataset |
-| Pavan | Study different kinds of anomalies, detection techniques, ML Algorithms and opensource datasets for *multicast*, *DHCP* and *DNS* Traffic |
-| Yadunath | Study different kinds of anomalies, detection techniques, ML Algorithms and opensource datasets for *QoS* and *VoIP/RTP* Traffic |
-| Yogendra | Implement Autoencoder using UNSW dataset |
-| Prakash | Implement XGBoost using CICIDS 2017 Dataset |
+| Phani | Implemented Isolation forest using CICIDS 2017 Dataset |
+| Pavan | Studied different kinds of anomalies, detection techniques, ML Algorithms and opensource datasets for *multicast*, *DHCP* and *DNS* Traffic |
+| Yadunath | Studied different kinds of anomalies, detection techniques, ML Algorithms and opensource datasets for *QoS* and *VoIP/RTP* Traffic |
+| Yogendra | Implemented Autoencoder using UNSW dataset |
+| Prakash | Implemented XGBoost using CICIDS 2017 Dataset |
 
 
 
