@@ -23,3 +23,24 @@
     3. Multicast traffic
     4. DHCP
     5. DNS
+
+# Week 3
+
+### Action Items
+
+- Evaluate the Isolation Forest model trained on CICIDS dataset using external (real-world) anomaly samples.[Naga Phani]
+
+- Train and evaluate an XGBoost model for anomaly detection similar tests can be performed.[Prakash]
+  
+- Demonstrate the autoencoders model trained on the UNSW dataset.[Yogendra]  
+
+- Experiment with multiple models and datasets for protocol-specific anomaly detection:  
+  - Quality of Service (QoS) anomalies[Naga Phani]
+  - VoIP/RTP traffic anomalies[Yadunath]  
+  - Multicast traffic anomalies[Prakash]  
+  - DHCP anomalies[Yogendra]  
+  - DNS anomalies[Pavan]  
+  - Select relevant datasets for each protocol.  
+  - Measure and compare prediction accuracy across models.
+
+- Explore techniques to generate benign/malicious training data.  
