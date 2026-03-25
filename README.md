@@ -24,7 +24,7 @@
     4. DHCP
     5. DNS
 
-# Week 3
+## Week 3
 
 ### Action Items
 
@@ -35,11 +35,11 @@
 - Demonstrate the autoencoders model trained on the UNSW dataset.[Yogendra]  
 
 - Experiment with multiple models and datasets for protocol-specific anomaly detection:  
-  - Quality of Service (QoS) anomalies[Naga Phani]
-  - VoIP/RTP traffic anomalies[Yadunath]  
-  - Multicast traffic anomalies[Prakash]  
-  - DHCP anomalies[Yogendra]  
-  - DNS anomalies[Pavan]  
+  - Quality of Service (QoS) anomalies [Naga Phani]
+  - VoIP/RTP traffic anomalies [Yadunath]  
+  - Multicast traffic anomalies [Prakash]  
+  - DHCP anomalies [Yogendra]  
+  - DNS anomalies [Pavan]  
   - Select relevant datasets for each protocol.  
   - Measure and compare prediction accuracy across models.
 
