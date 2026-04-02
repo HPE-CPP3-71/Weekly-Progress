@@ -3,6 +3,6 @@
 |------|------|
 | Phani |  |
 | Pavan |  |
-| Yadunath | Trained MLP and 1D-CNN models on CICIDS 2017 Dataset |
+| Yadunath |  |
 | Yogendra |  |
 | Prakash |  |
