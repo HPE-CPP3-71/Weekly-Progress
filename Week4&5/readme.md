@@ -1,8 +1,8 @@
 ### Progress Summary
 | Person | Work Done |
 |------|------|
-| Phani |  |
+| Phani | Generated a Dataset from live packet capture. Simulated Port Scan and Brute force attacks for the dataset, followed the infrastructure and methodology that was suggested in the CICIDS dataset generation paper. Tested the previously trained Isolation forest model on the generated dataset.|
 | Pavan |  |
 | Yadunath | Simulated BYE flood and REGISTER flood and captured packets. Extracted flows of VoIP pcaps using CICFlowmeter but IPs got corrupted. Converted pcaps to json using tshark but this extracted packet by packet data which is not useful as we need flows to train the model |
-| Yogendra |  |
+| Yogendra | Simulated a DHCP starvation attack to analyze impact on IP allocation |
 | Prakash | Simulated network traffic capture using GNS3, implemented custom feature extraction to convert PCAP files into CSV format, and trained a model to evaluate the effectiveness of extracted features in detecting anomalies.|
