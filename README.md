@@ -43,4 +43,11 @@
   - Select relevant datasets for each protocol.  
   - Measure and compare prediction accuracy across models.
 
-- Explore techniques to generate benign/malicious training data.  
+- Explore techniques to generate benign/malicious training data.
+
+## Week 4 & 5
+
+### Action Items
+
+- Create a datasets for the protocol that has been assigned to you and train and test the corresponding ML model to see if the accuracy is staying the same or the performance is decreasing.
+
