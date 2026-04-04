@@ -51,3 +51,15 @@
 
 - Create a datasets for the protocol that has been assigned to you and train and test the corresponding ML model to see if the accuracy is staying the same or the performance is decreasing.
 
+## Week 6
+
+### Action Items
+
+- For protocols which did not have a good data set & where in-lab data generation was needed: try to generate a more voluminous dataset for robust training.
+- For CICFlowMeter falures check if an AI tool can suggest any fixes for the failures on select packet types
+- If the above is not feasible see if a tool can be written (again using AI) to generate flows & extract features from the pcaps. This may not be an easy task. Try this only if 2) doesn’t work.
+- Other than the said protocol types the below were a few more you can start looking at.
+    - ARP
+    - ICMP
+    - OSPF
+    - BGP
