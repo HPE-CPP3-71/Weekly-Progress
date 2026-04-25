@@ -63,3 +63,7 @@
     - ICMP
     - OSPF
     - BGP
+
+## Week 7
+
+- Test the generated data on already trained models and report the metrics.
