@@ -1,7 +1,6 @@
 """
 ══════════════════════════════════════════════════════════════════════════════
-
-Capture timeline (recovered from data analysis):
+Capture timeline :
   22:00 - 22:27  →  BENIGN          (no attacker traffic)
   22:28 - 22:43  →  PortScan        (Kali hits 192.168.56.105 across many ports)
   22:44 - 23:05  →  BENIGN break    (only stray DHCP pings - not an attack)
@@ -11,11 +10,6 @@ Capture timeline (recovered from data analysis):
 Network layout:
   Attacker  : 192.168.56.106  (Kali VM)
   Victim    : 192.168.56.105  (Ubuntu, enp0s8)
-
-Usage:
-  python label_flows.py                          # uses defaults below
-  python label_flows.py --input my.csv --output labeled.csv
-  python label_flows.py --verify                 # print stats only, no write
 ══════════════════════════════════════════════════════════════════════════════
 """
 
