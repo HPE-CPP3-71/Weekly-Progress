@@ -5,4 +5,4 @@
 | Pavan |Expanded the generated DNS dataset by expanding the architecture  | 
 | Yadunath | Simulated 3 different attacks and captured packets in 3 captures. Each capture containing more than 90000 packets and almost 400 flows were extracted using CICFlowmeter |
 | Yogendra | |
-| Prakash | |
+| Prakash | Captured and validated 4 more multicast attacks, including Multicast Amplification, Group Scanning, IGMP Query Flood, and Multicast Data Flood.|
