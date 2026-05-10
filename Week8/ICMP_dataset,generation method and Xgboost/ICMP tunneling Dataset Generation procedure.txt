@@ -1,0 +1,34 @@
+ICMP tunneling Dataset Generation
+
+
+Plan: - 
+
+10 Files of sizes from 2MB to 25MB these are the filees which we will exfilterate.
+
+4 files using ptunnel
+
+6 files using scapy + another 6 files
+
+ICMP tunneling to attacker -> expected atleast 5-10k flows
+
+Normal ICMP traffic in between like pings, traceroute, Port unreachable need to do this a healthy amount of times. -> writing a script for that as well.
+
+Normal benign traffic -> This time making it automated using selenium. 
+
+Timeline:-
+
+Normal traffic only - Manual web browsing - 10 min - started at 10:29 upto 10:39
+2 mins break
+Run normal benign script - runs in background from 10:41
+benign icmp once -> ICMP packets will come in NAT capture -> at 10:55 ->First time traceroute error need to do again -> Done once again
+Screenshot taken both times
+
+2 mins break
+attack using ptunnel - Start at 11:13:15 -> end 11:58:48
+2 min break
+attack using scapy  ->start at 12:03  -> end 12:26pm
+2 mins break
+benign ICMP->started at 12:44pm
+2nd scapy tunneling - 20-25 mins-> started at 12:36
+Host only manual ping - 1:14pm to 1:19pm
+end capture -> 
