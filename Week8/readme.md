@@ -4,5 +4,5 @@
 | Phani | Generated ICMP Tunneling dataset (Needs more attack flows). Checked how Xgboost model trained on CICIDS-17 datasets fits on live packet capture.|
 | Pavan |Generated a bigscale dataset for DNS Spoofing using 2 attack devices and various victim devices , tested it on Isolation forest which was trained on CICDS-2017 dataaset| 
 | Yadunath | Trained Random Forest and XGBoost for supervised learning and Isolation Forest and One class SVM for unsupervised learning on BGP dataset downloaded from RIPE RIS |
-| Yogendra | |
+| Yogendra | Trained a statistical machine learning model to detect DHCP starvation attacks and DHCP flood packets |
 | Prakash | |
