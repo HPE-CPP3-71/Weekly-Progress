@@ -5,4 +5,4 @@
 | Pavan |Generated a bigscale dataset for DNS Spoofing using 2 attack devices and various victim devices , tested it on Isolation forest which was trained on CICDS-2017 dataaset| 
 | Yadunath | Trained Random Forest and XGBoost for supervised learning and Isolation Forest and One class SVM for unsupervised learning on BGP dataset downloaded from RIPE RIS |
 | Yogendra | Trained a statistical machine learning model to detect DHCP starvation attacks and DHCP flood packets |
-| Prakash | |
+| Prakash | Generated large-scale datasets for multicast security attacks including IGMP Flood, IGMP Spoofing, PIM Hello Manipulation, Group Scan, and MLD Flood attacks(5 attacks in 8). Evaluated CICFlowMeter for multicast traffic analysis and identified limitations in handling multicast control-plane protocols and realistic multicast flow behavior. Explored alternative packet/window-based feature extraction techniques for reliable multicast traffic aggregation and machine learning model training.|
