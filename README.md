@@ -67,3 +67,14 @@
 ## Week 7
 
 - Test the generated data on already trained models and report the metrics.
+
+## Week 11
+
+### Action Items
+
+- find the set of new protocols that we can start looking at.
+    - TLS/SSL
+    - HTTP/HTTPS
+    - STP/RSTP/MSTP
+    - LLDP/CDP
+    - QoS – I know we already had this in our earlier list. We dropped this as we did not have any open source data set. Wanted to revisit this &                 check if a synthetic data set can be generated for this. We will discuss in our next meeting
