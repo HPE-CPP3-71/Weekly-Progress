@@ -5,4 +5,5 @@
 | Pavan |Generated PCAPs for DNS Tunneling and ARP Flooding attacks dataset generation| 
 | Yadunath ||
 | Yogendra | |
-| Prakash | |
+| Prakash | Worked on rule-based OSPF attack detection (Hello Flood, LSA Flood, DBD Flood, Seq++/Replay, MaxAge, Router-ID Spoofing, etc.) using protocol-aware, Stateful, behavioral analysis. Since public datasets are limited, planning to generate small datasets for each attack for evaluation.
+Developed multicast rule-based detection for IGMP Query Flood, Multicast Group Scanning, and PIM Hello/Flood manipulation attacks using protocol-aware behavioral analysis. |
